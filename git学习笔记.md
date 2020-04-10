@@ -18,7 +18,7 @@
 
   ​	**git config user.name**和**git config user.email**即可分别查看原来自己注册用户名和邮箱信息) 
 
-###Git建立仓库
+### Git建立仓库
 
 ​	通过```git init```命令来建立仓库。，在当前目录下会多出来一个```.git```目录用于管理仓库。
 
